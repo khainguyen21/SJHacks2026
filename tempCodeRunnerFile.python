@@ -1,0 +1,6 @@
+
+    embed_watermark(
+        input_path=original_image,
+        output_path=watermarked_image,
+        watermark_text=watermark
+    )
